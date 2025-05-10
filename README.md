@@ -1,5 +1,5 @@
 # Student-Spending-Analysis
-Die Untersuchung analysiert die Ausgaben von Studierenden, um mögliche Zusammenhänge mit verschiedenen Einflussfaktoren aufzudecken.
+Die Untersuchung analysiert Ausgaben von Studierenden, um mögliche Zusammenhänge mit verschiedenen Einflussfaktoren aufzudecken.
 
 ## Der Datensatz
 
